@@ -47,7 +47,7 @@ h2 {
 .colored-section {
   color: black;
   background:  radial-gradient(ellipse at top, #D4AF37, transparent),
-            radial-gradient(ellipse at bottom, #40c, transparent);
+            radial-gradient(ellipse at bottom, #000000, transparent);
           }
 @media (max-width: 1028px) {
   .bd-placeholder-img-lg {
